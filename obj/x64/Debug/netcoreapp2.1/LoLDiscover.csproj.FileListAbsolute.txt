@@ -1,0 +1,15 @@
+C:\Users\EA\source\repos\LoLDiscover\obj\x64\Debug\netcoreapp2.1\LoLDiscover.csprojAssemblyReference.cache
+C:\Users\EA\source\repos\LoLDiscover\obj\x64\Debug\netcoreapp2.1\LoLDiscover.AssemblyInfoInputs.cache
+C:\Users\EA\source\repos\LoLDiscover\obj\x64\Debug\netcoreapp2.1\LoLDiscover.AssemblyInfo.cs
+C:\Users\EA\source\repos\LoLDiscover\obj\x64\Debug\netcoreapp2.1\LoLDiscover.csproj.CoreCompileInputs.cache
+C:\Users\EA\source\repos\LoLDiscover\bin\x64\Debug\netcoreapp2.1\changelog.txt
+C:\Users\EA\source\repos\LoLDiscover\bin\x64\Debug\netcoreapp2.1\Resources\FunSounds\Test.wav
+C:\Users\EA\source\repos\LoLDiscover\bin\x64\Debug\netcoreapp2.1\Resources\FunSounds\ВзрывПукана.wav
+C:\Users\EA\source\repos\LoLDiscover\bin\x64\Debug\netcoreapp2.1\LoLDiscover.deps.json
+C:\Users\EA\source\repos\LoLDiscover\bin\x64\Debug\netcoreapp2.1\LoLDiscover.runtimeconfig.json
+C:\Users\EA\source\repos\LoLDiscover\bin\x64\Debug\netcoreapp2.1\LoLDiscover.runtimeconfig.dev.json
+C:\Users\EA\source\repos\LoLDiscover\bin\x64\Debug\netcoreapp2.1\LoLDiscover.dll
+C:\Users\EA\source\repos\LoLDiscover\bin\x64\Debug\netcoreapp2.1\LoLDiscover.pdb
+C:\Users\EA\source\repos\LoLDiscover\obj\x64\Debug\netcoreapp2.1\LoLDiscover.dll
+C:\Users\EA\source\repos\LoLDiscover\obj\x64\Debug\netcoreapp2.1\LoLDiscover.pdb
+C:\Users\EA\source\repos\LoLDiscover\obj\x64\Debug\netcoreapp2.1\LoLDiscover.genruntimeconfig.cache

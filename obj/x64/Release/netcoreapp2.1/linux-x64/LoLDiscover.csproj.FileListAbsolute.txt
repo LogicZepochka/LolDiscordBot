@@ -1,0 +1,13 @@
+C:\Users\EA\source\repos\LoLDiscover\bin\x64\Release\netcoreapp2.1\linux-x64\LoLDiscover
+C:\Users\EA\source\repos\LoLDiscover\bin\x64\Release\netcoreapp2.1\linux-x64\changelog.txt
+C:\Users\EA\source\repos\LoLDiscover\bin\x64\Release\netcoreapp2.1\linux-x64\LoLDiscover.deps.json
+C:\Users\EA\source\repos\LoLDiscover\bin\x64\Release\netcoreapp2.1\linux-x64\LoLDiscover.runtimeconfig.json
+C:\Users\EA\source\repos\LoLDiscover\bin\x64\Release\netcoreapp2.1\linux-x64\LoLDiscover.runtimeconfig.dev.json
+C:\Users\EA\source\repos\LoLDiscover\bin\x64\Release\netcoreapp2.1\linux-x64\LoLDiscover.dll
+C:\Users\EA\source\repos\LoLDiscover\bin\x64\Release\netcoreapp2.1\linux-x64\LoLDiscover.pdb
+C:\Users\EA\source\repos\LoLDiscover\obj\x64\Release\netcoreapp2.1\linux-x64\LoLDiscover.AssemblyInfoInputs.cache
+C:\Users\EA\source\repos\LoLDiscover\obj\x64\Release\netcoreapp2.1\linux-x64\LoLDiscover.AssemblyInfo.cs
+C:\Users\EA\source\repos\LoLDiscover\obj\x64\Release\netcoreapp2.1\linux-x64\LoLDiscover.csproj.CoreCompileInputs.cache
+C:\Users\EA\source\repos\LoLDiscover\obj\x64\Release\netcoreapp2.1\linux-x64\LoLDiscover.dll
+C:\Users\EA\source\repos\LoLDiscover\obj\x64\Release\netcoreapp2.1\linux-x64\LoLDiscover.pdb
+C:\Users\EA\source\repos\LoLDiscover\obj\x64\Release\netcoreapp2.1\linux-x64\LoLDiscover.genruntimeconfig.cache
